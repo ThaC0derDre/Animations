@@ -12,6 +12,7 @@
 		31061A2B27E54D5E005A6053 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31061A2A27E54D5E005A6053 /* Assets.xcassets */; };
 		31061A2E27E54D5E005A6053 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31061A2D27E54D5E005A6053 /* Preview Assets.xcassets */; };
 		31061A3527E550F6005A6053 /* FirstTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31061A3427E550F6005A6053 /* FirstTest.swift */; };
+		318A2EAC27E5560A0080A954 /* SecondTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 318A2EAB27E5560A0080A954 /* SecondTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		31061A2A27E54D5E005A6053 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31061A2D27E54D5E005A6053 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		31061A3427E550F6005A6053 /* FirstTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTest.swift; sourceTree = "<group>"; };
+		318A2EAB27E5560A0080A954 /* SecondTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				31061A2627E54D5E005A6053 /* AnimationsApp.swift */,
 				31061A2827E54D5E005A6053 /* ContentView.swift */,
 				31061A3427E550F6005A6053 /* FirstTest.swift */,
+				318A2EAB27E5560A0080A954 /* SecondTest.swift */,
 				31061A2A27E54D5E005A6053 /* Assets.xcassets */,
 				31061A2C27E54D5E005A6053 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				31061A2927E54D5E005A6053 /* ContentView.swift in Sources */,
 				31061A3527E550F6005A6053 /* FirstTest.swift in Sources */,
 				31061A2727E54D5E005A6053 /* AnimationsApp.swift in Sources */,
+				318A2EAC27E5560A0080A954 /* SecondTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
