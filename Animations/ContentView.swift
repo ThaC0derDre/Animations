@@ -8,9 +8,17 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var aPadd    = 1.0
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Button("Tap me"){
+            aPadd += 1
+        }
+        .padding(50)
+        .background(.red)
+        .foregroundColor(.white)
+        .clipShape(Circle())
+        .scaleEffect(aPadd)
+        .animation(.spring(), value: aPadd)
     }
 }
 
